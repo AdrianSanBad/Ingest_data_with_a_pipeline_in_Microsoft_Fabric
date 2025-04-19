@@ -29,13 +29,13 @@ The pipeline consists of three main stages:
 
 ### ✅ Final Pipeline Design
 
-![Final Pipeline](images/pipeline.png)
+![Final Pipeline](pipeline.png)
 
 ---
 
 ### 📊 Delta Table: `new_sales`
 
-![Delta Table Preview](images/new_sales_table.png)
+![Delta Table Preview](new_sales_table.png)
 
 ---
 
